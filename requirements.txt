@@ -1,0 +1,6 @@
+openai
+streamlit
+faiss-cpu
+sentence-transformers
+PyPDF2
+Groq
